@@ -37,7 +37,6 @@ As questões foram resolvidas usando as seguintes tecnologias:
     Abrir arquivo index
 ```
 
-```
 
 ## :book: Voto em branco 
 
