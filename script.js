@@ -123,6 +123,8 @@ function confirma(){
         etapaAtual++;
         if(etapas[etapaAtual] !== undefined) {
             comecarEtapa();
+        } else {
+            document.querySelector('.tela').innerHTML = '<div class="aviso--gigante pisca">FIM</div>'
         }
 
     }
